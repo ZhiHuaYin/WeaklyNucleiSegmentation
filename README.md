@@ -21,7 +21,8 @@ defective nuclear masks from partially labeled nuclei locations, which will be u
 * cuDNN==7.5
 * caffe2
 
-### Evaluate and Prediction
+### Evaluate
+The evaluation process is conducted according to the standards of MSCOCO in [Detectron](https://github.com/facebookresearch/Detectron).
 
 ### Datasets
 The dataset, which has more than 1000,000 nuclei in 23,485 images, was cropped from the Feulgen stained Whole Slide Images (WSIs). The number of targets in each image is distributed around 40, and the maximum number is 327. Compared to general datasets, the average number of targets per image is relatively large while the scale of targets is mainly concentrated below 32 × 32, which is a small size for the feature extractor block.
@@ -36,3 +37,4 @@ __Initial segmentation annotations__
   <img width="450" src="https://github.com/ZhiHuaYin/WeaklyNucleiSegmentation/blob/main/images/initial.png" />
 </p>
 
+This datasets is available on google driver [here](https://drive.google.com/drive/folders/1HZmYSKyOcxk3Tgti042ozToemxz0qY5W?usp=sharing)
