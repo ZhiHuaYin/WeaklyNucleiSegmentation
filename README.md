@@ -32,5 +32,7 @@ __Data distribution__
 </p>
 
 __Initial segmentation annotations__
-
+<p align="center">
+  <img width="450" src="https://github.com/ZhiHuaYin/WeaklyNucleiSegmentation/blob/main/images/initial.png" />
+</p>
 
