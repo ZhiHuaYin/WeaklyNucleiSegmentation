@@ -80,4 +80,5 @@ model = dict(
             mask_thr_binary=0.5)
     )
 )
-evaluation = dict(metric=['bbox', 'segm'])
+runner = dict(type='IterBasedRunner', max_iters=16000)
+evaluation = dict(metric=['bbox', 'segm'], interval=16000)

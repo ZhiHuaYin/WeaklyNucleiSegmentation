@@ -9,3 +9,4 @@ data = dict(
     )
 )
 resume_from = f'work_dirs/{teacher_config}/iter_16000.pth'
+runner = dict(type='IterBasedRunner', max_iters=32000)

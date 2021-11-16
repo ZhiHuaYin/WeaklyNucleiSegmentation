@@ -10,5 +10,3 @@ lr_config = dict(
     step=[20000, 27000],
     by_epoch=False
 )
-runner = dict(type='IterBasedRunner', max_iters=32000)
-evaluation = dict(interval=32000)

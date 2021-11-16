@@ -11,7 +11,7 @@ from functools import partial
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('label', default='../data/coco_dna/annotations/train_gray.json', type=str)
+    parser.add_argument('label', default='../data/coco_dna/annotations/train.json', type=str)
     parser.add_argument('pred', type=str)
     parser.add_argument('-j', type=int, default=0)
 
