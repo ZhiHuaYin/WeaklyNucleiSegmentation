@@ -66,4 +66,4 @@ tools/dist_test.sh configs/_dna_/mask_rcnn_r50_fpn_32k_coco-dna.py /path/to/iter
 python demo/test_dna_mask.py configs/_dna_/mask_rcnn_r50_fpn_32k_coco-dna.py /path/to/iter_32000.pth --input /path/to/train/JPEGImages_other --output ./output_mask
 ```
 
-The pretrained weights are available at this [link](https://drive.google.com/file/d/1EvRXDEhBrw0WmmCAMaoU2YsCGTWZ2AF8/view?usp=sharing) and the prediction masks are available at this [link](https://drive.google.com/file/d/13-kcH2c2fyYDfZTkCSw1I474IKzmC-Eq/view?usp=sharing).
+The pretrained weights are available at this [link](https://drive.google.com/file/d/1EvRXDEhBrw0WmmCAMaoU2YsCGTWZ2AF8/view?usp=sharing).
