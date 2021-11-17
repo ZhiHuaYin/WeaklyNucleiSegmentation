@@ -10,7 +10,7 @@ The dataset, which has more than 1000,000 nuclei in 23,485 images, was cropped f
 
 ![dataset](images/data_distribution+.png)
 
-This datasets is available on google driver [here](https://drive.google.com/drive/folders/1xOhPszjY2vKIsp9JH_Kgdc8IZfilY4WY?usp=sharing).
+This datasets is available on google driver [here](https://drive.google.com/drive/folders/1FHhzTWl7XjW8ocCSSMk3ObnSSJie0qF7?usp=sharing).
 
 ### Environment
 
